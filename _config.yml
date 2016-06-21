@@ -1,7 +1,7 @@
 # Site settings
 title: kate的技术博客
 email: kkkktan@163.com
-description: > #kate的技术博客
+description:  kate的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://ggdkay.github.io" # the base hostname & protocol for your site
 
