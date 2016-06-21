@@ -1,26 +1,26 @@
 # Site settings
-title: 刘彦玮的技术博客
-email: coolnameismy@hotmail.com
-description: > #刘彦玮的技术博客
+title: kate的技术博客
+email: kkkktan@163.com
+description: > #kate的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://liuyanwei.jumppo.com" # the base hostname & protocol for your site
-twitter_username: coolnameismy@hotmail.com
-github_username:  coolnameismy
+url: "http://ggdkay.github.io" # the base hostname & protocol for your site
+
+github_username:  ggdkay
 
 # Build settings
 #markdown: kramdown
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
-  name: 刘彦玮
-  email: coolnameismy@hotmail.com
-  link: http://liuyanwei.jumppo.com/
-  weibo: http://weibo.com/1897719834
-  github: http://github.com/coolnameismy
-title: 刘彦玮的技术博客                             #自定义常量
+  name: kate
+  email: kkkktan@163.com
+  link: http://ggdkay.github.io/
+  weibo: 
+  github: http://github.com/ggdkay
+title: kate的技术博客                             #自定义常量
 
 # avatar头像及Favicon
-avatar: https://avatars1.githubusercontent.com/u/5010799?v=3&amp;s=460
+avatar: 
 #favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 locals:                                     #自定义常量
@@ -39,8 +39,8 @@ markdown: kramdown                         #markdown解释器
 # baidu analytics 设置
 
 ba:
-  src: //hm.baidu.com/hm.js?22d94317cfb9f9e0bb476228d9f79278
+  src: 
 
 # disqus 设置
 disqus:
-  shortname: coolnameismy
+  shortname: kate
