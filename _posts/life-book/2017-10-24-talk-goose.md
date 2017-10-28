@@ -1,4 +1,13 @@
-# 10.24talk
+---
+layout: post
+title: <第三选择>
+category: reading
+tags: IOS,OBJECTC,SWIFT
+keywords: talk
+description:
+---
+
+# 10.24talk <第三选择>
 
 来自史蒂芬的毕生最重要的总结，通过第三选择解决所有难题的关键思维
 
@@ -81,22 +90,3 @@
 
 
 你看事物有不同的视角，说给我听听。—做越多，越和谐，学更多
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-
-
-
